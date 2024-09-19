@@ -1,0 +1,68 @@
+su
+shutdow
+shutdown
+su
+pwd
+ls
+dir
+dir -- help
+dir --help
+man
+man dir
+clear
+ls -l
+ls -r
+ls -l -r
+ls -lr
+cd videos
+cd Videos
+cd Vídeos
+cd /var
+cd .
+cd ..
+ls
+cd var
+ls
+cd local
+pdw
+pwd
+cd /
+cd /var/log
+ls -l
+ls -lt
+whomi
+whoami
+date
+su
+cd /descargas
+cd /home/debian/Descargas
+/Descargas
+cd /home/brian/Descargas
+dir
+su
+pwd
+mkdir repogit
+cd repogit
+mkdir -p {carpeta1, carpeta2}
+ls
+mkdir -p {carpeta1,carpeta2}
+ls
+cd ejemplo
+ls
+cd .
+cd repogit
+cd ..
+su
+tree
+man tree
+cd ..
+pwd
+useradd yo
+su
+cd ..
+ls
+ls -a
+su
+cd ..
+mkdir yo
+su
